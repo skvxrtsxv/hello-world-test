@@ -1,1 +1,5 @@
 venv\
+lesson*.py
+book.json
+products.csv
+notes.txt 
